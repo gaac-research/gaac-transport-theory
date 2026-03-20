@@ -1,0 +1,207 @@
+# GAAC Fusion Theory — Addendum v1.3  
+Density Limit Interpretation via Transport-Dominant Stability
+
+---
+
+## Reference  
+This addendum extends:
+
+- GAAC_Fusion_Theory_ASCII_FULL.pdf (Version 1)  
+- Addendum v1.1 (Clarifications and Conditions)  
+- Addendum v1.2 (Transport Regime Formalization)  
+
+No prior equations are modified. This document introduces a transport-based interpretation of density limits in magnetized plasmas.
+
+---
+
+## 1. Purpose
+
+This addendum examines the emergence of a maximum achievable plasma density within the GAAC framework.
+
+The goal is to determine whether density limits can be interpreted as a consequence of:
+
+- transport dynamics  
+- instability growth  
+- phase decoherence constraints  
+
+---
+
+## 2. Physical Basis
+
+In conventional fusion systems, increasing density leads to:
+
+- increased collisionality  
+- enhanced turbulence and instability growth  
+- degradation of confinement  
+
+This behavior suggests that:
+
+> instability growth rate is a function of plasma density
+
+---
+
+## 3. GAAC Stability Condition at the Density Limit
+
+From prior formulation, stability requires:
+
+- transport and shear suppression exceeding instability growth  
+
+At the density limit, this condition becomes marginal:
+
+> stability threshold occurs when suppression equals growth  
+
+---
+
+### Conceptual Balance:
+
+- stabilizing mechanisms:
+  - shear-induced decorrelation  
+  - advective transport  
+
+- destabilizing mechanisms:
+  - density-driven instabilities  
+
+---
+
+## 4. Scaling Argument
+
+We define:
+
+- characteristic turbulence scale: L  
+- guiding or effective flow velocity: v  
+- density-dependent instability growth: proportional to n  
+
+---
+
+### Transport / Suppression Scaling:
+
+- shear rate scales as:
+  - velocity divided by length scale  
+
+- advective suppression scales similarly  
+
+---
+
+### Instability Scaling:
+
+- density-driven growth increases with plasma density  
+
+---
+
+### Resulting Balance Condition:
+
+At the density limit:
+
+- transport suppression ~ instability growth  
+
+---
+
+### Leading-Order Scaling:
+
+> maximum density is proportional to flow velocity and inversely proportional to characteristic scale
+
+---
+
+## 5. Result
+
+### GAAC Density Limit Scaling
+
+> n_max ∝ v / L
+
+---
+
+## 6. Interpretation
+
+Within GAAC, the density limit is not a fixed constraint but a conditional threshold determined by transport dynamics.
+
+---
+
+### Key Implications:
+
+- increasing flow velocity raises the achievable density  
+- reducing characteristic instability scale raises the limit  
+- insufficient transport leads to instability growth and confinement loss  
+
+---
+
+### Reformulation:
+
+> the density limit corresponds to the point where instability growth overtakes transport and decoherence
+
+---
+
+## 7. Relation to High-Density Experimental Regimes
+
+Recent experimental results have demonstrated stable operation at densities exceeding previously expected limits.
+
+Within the GAAC framework, such behavior is consistent with:
+
+- enhanced edge transport control  
+- increased shear and flow  
+- improved suppression of instability growth  
+
+---
+
+### Interpretation:
+
+> density limits can shift when transport conditions are modified
+
+---
+
+## 8. Constraints and Limitations
+
+This scaling:
+
+- does not specify exact proportionality constants  
+- does not include detailed magnetic geometry  
+- does not model specific instability modes explicitly  
+
+---
+
+### Therefore:
+
+This result should be interpreted as a first-order transport scaling, not a complete predictive model.
+
+---
+
+## 9. Testable Predictions
+
+The GAAC density interpretation implies:
+
+---
+
+### 9.1 Flow Dependence  
+Increasing flow velocity should increase the maximum stable density.
+
+---
+
+### 9.2 Transport Sensitivity  
+Changes in transport regime should directly affect density limits.
+
+---
+
+### 9.3 Decoherence Requirement  
+Systems lacking sufficient phase decorrelation should exhibit reduced density limits even with strong flow.
+
+---
+
+### 9.4 Geometry Effects  
+Asymmetric or non-repeating transport paths should allow higher stable densities.
+
+---
+
+## 10. Summary
+
+Within the GAAC framework:
+
+- density limits arise from a balance between transport suppression and instability growth  
+- the maximum density scales with flow and transport structure  
+- stability at high density is achievable when transport and decoherence remain dominant  
+
+---
+
+### Final Statement
+
+The density limit is interpreted not as a fixed boundary, but as a transport-dependent stability threshold.
+
+---
